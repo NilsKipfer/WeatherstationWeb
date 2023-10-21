@@ -35,3 +35,6 @@ yarn-error.log*
 
 # Connections
 /src/boot/*
+
+# Modules
+/node_modules
