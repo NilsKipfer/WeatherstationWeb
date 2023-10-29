@@ -3,7 +3,7 @@
     <q-header elevated>
       <q-toolbar>
         <q-toolbar-title class="text-white">
-          <center>Weather Station</center>
+          <center class="text-h4">Weather Station</center>
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
